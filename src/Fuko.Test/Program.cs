@@ -46,7 +46,7 @@ namespace Fuko.Test
             {
                 var res = await temp.ParseAsync(template, new Dictionary<string, string>()
                 {
-                    {"first_name", "Nimrod"},
+                    {"first_name", "John"},
                     {"amount", "10,000"},
                     {"app_name", "Fuko"}
                 });

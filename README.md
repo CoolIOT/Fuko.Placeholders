@@ -1,6 +1,16 @@
-# Fuko.PlaceHolders
+# Fuko.PlaceHolders 
 
 This library was inspired by laravel-placeholders library. It is meant for finding and replace placeholders in a template string.
+
+[![](https://img.shields.io/nuget/v/Fuko.PlaceHolders.svg)](https://www.nuget.org/packages/Fuko.PlaceHolders/)
+
+## Installation
+
+You can install this library using the .NET CLI:
+
+```shell
+$ dotnet add package Fuko.PlaceHolders --version 1.0.0 
+``` 
 
 ## Usage
 
