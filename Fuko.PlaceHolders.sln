@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ADD5B323-E68
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuko.PlaceHolders", "src\Fuko.PlaceHolders\Fuko.PlaceHolders.csproj", "{BEA2F053-44A1-4136-978D-3E3AABA98459}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuko.Test", "src\Fuko.Test\Fuko.Test.csproj", "{C60142C0-EADC-4E36-A504-E8099CD349F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +34,21 @@ Global
 		{BEA2F053-44A1-4136-978D-3E3AABA98459}.Release|x64.Build.0 = Release|Any CPU
 		{BEA2F053-44A1-4136-978D-3E3AABA98459}.Release|x86.ActiveCfg = Release|Any CPU
 		{BEA2F053-44A1-4136-978D-3E3AABA98459}.Release|x86.Build.0 = Release|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Debug|x64.Build.0 = Debug|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Debug|x86.Build.0 = Debug|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Release|x64.ActiveCfg = Release|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Release|x64.Build.0 = Release|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Release|x86.ActiveCfg = Release|Any CPU
+		{C60142C0-EADC-4E36-A504-E8099CD349F3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BEA2F053-44A1-4136-978D-3E3AABA98459} = {ADD5B323-E689-4C24-9DD7-1C0B8ADA019D}
+		{C60142C0-EADC-4E36-A504-E8099CD349F3} = {ADD5B323-E689-4C24-9DD7-1C0B8ADA019D}
 	EndGlobalSection
 EndGlobal
